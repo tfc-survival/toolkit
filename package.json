@@ -1,6 +1,7 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "@tfc-survival/artifact",
+  "version": "1.0.0",
+  "private": false,
   "scripts": {
     "audit-all": "lerna run audit-moderate",
     "bootstrap": "lerna exec -- npm install",
