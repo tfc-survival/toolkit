@@ -1,5 +1,5 @@
 {
-  "name": "@tfc-survival/artifact",
+  "name": "tfc-survival-artifact",
   "version": "1.0.0",
   "private": false,
   "scripts": {
